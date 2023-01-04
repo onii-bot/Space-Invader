@@ -10,7 +10,7 @@ You play as a spaceship and your objective is to kill all the incoming aliens. T
 This is made using pygame library. You can refer to the documentation provided below
 ## Screenshots
 
-![App Screenshot](https://imgur.com/ktu4vLQ)
+![App Screenshot](https://i.imgur.com/ktu4vLQ.png)
 
 
 ## Documentation
